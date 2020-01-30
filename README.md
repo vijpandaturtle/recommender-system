@@ -9,6 +9,7 @@ A repository consisting of resources, content and practice projects on recommend
 3. https://medium.com/@sumith.gannarapu/restaurant-recommendation-system-b52911d1ed0b
 4. https://developers.google.com/machine-learning/recommendation
 5. https://towardsdatascience.com/beginners-recommendation-systems-with-python-ee1b08d2efb6
+6. https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101
 
 # Practice Projects
 
