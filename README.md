@@ -12,3 +12,12 @@ A repository consisting of resources, content and practice projects on recommend
 # Practice Projects
 
 1. Restaurant Recommender System
+
+
+## Types of recommender systems 
+1. Collaborative Recommender System
+2. Content-based Recommender System
+3. Demographic-based Recommender System
+4. Utility-based Recommender System
+5. Knowledge-based Recommender System
+6. Hybrid Recommender System
