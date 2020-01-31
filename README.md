@@ -10,6 +10,9 @@ A repository consisting of resources, content and practice projects on recommend
 4. https://developers.google.com/machine-learning/recommendation
 5. https://towardsdatascience.com/beginners-recommendation-systems-with-python-ee1b08d2efb6
 6. https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101
+7. https://medium.com/datadriveninvestor/how-to-build-a-recommendation-system-for-purchase-data-step-by-step-d6d7a78800b6
+8. https://towardsdatascience.com/build-a-recommender-system-yelp-rating-prediction-example-collaborative-filtering-28a6e48a8cc
+9. https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed
 
 # Practice Projects
 
