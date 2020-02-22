@@ -13,6 +13,7 @@ A repository consisting of resources, content and practice projects on recommend
 7. https://medium.com/datadriveninvestor/how-to-build-a-recommendation-system-for-purchase-data-step-by-step-d6d7a78800b6
 8. https://towardsdatascience.com/build-a-recommender-system-yelp-rating-prediction-example-collaborative-filtering-28a6e48a8cc
 9. https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed
+10. https://blog.statsbot.co/recommendation-system-algorithms-ba67f39ac9a3
 
 # Practice Projects
 
